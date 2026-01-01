@@ -8,7 +8,7 @@
 
 ---
 
-### 👨‍💻 **Professional Profile**
+### 👨‍💻 **Amit Yadav**
 *Systems Engineer with a focus on Cloud Infrastructure, Automation, and Data Analytics. Currently optimizing enterprise-scale system health at **Cognizant**.*
 
 - 🔭 **Current Focus:** Automating Cloud Operations (AWS/Azure) and building CI/CD Pipelines.
