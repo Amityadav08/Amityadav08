@@ -1,35 +1,44 @@
-<h1 align="center">Hi 👋, I'm Amit Yadav</h1>
-
-<h3 align="center">A passionate frontend developer from India</h3>
 
 
-
-- 🌱 I’m currently learning **Next js**
-
-
-
-- 👯 I’m looking to collaborate on **React Project**
-
-
-
-- 📫 How to reach me **amityadav04866@gmail.com**
-
-
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-
-<a href="https://linkedin.com/in/amit yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit yadav" height="30" width="40" /></a>
-
-<a href="https://www.leetcode.com/amityadav04866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amityadav04866" height="30" width="40" /></a>
-
-<a href="https://auth.geeksforgeeks.org/user/amityadav04866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amityadav04866" height="30" width="40" /></a>
-
+<p align="center">
+  <a href="https://linkedin.com/in/amityadav8888"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:amityadav04866@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/amityadav04866"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>
 
+---
+
+### 👨‍💻 **Professional Profile**
+*Systems Engineer with a focus on Cloud Infrastructure, Automation, and Data Analytics. Currently optimizing enterprise-scale system health at **Cognizant**.*
+
+- 🔭 **Current Focus:** Automating Cloud Operations (AWS/Azure) and building CI/CD Pipelines.
+- 🎓 **Education:** BCA Graduate (7.9 CGPA) & Top Mentor Data Science Alumnus.
+- ☁️ **Cloud Stack:** Hands-on with Docker, Kubernetes, Jenkins, and Terraform.
+- 🎯 **Objective:** Bridging the gap between data-driven insights and robust infrastructure.
+
+---
+
+### 🛠 **Technical Ecosystem**
+
+| **Cloud & DevOps** | **Data & Languages** | **Monitoring & Tools** |
+| :--- | :--- | :--- |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Dynatrace](https://img.shields.io/badge/Dynatrace-734791?style=flat&logo=dynatrace) |
+| ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![ServiceNow](https://img.shields.io/badge/ServiceNow-293E40?style=flat&logo=servicenow) |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat&logo=kubernetes) | ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=microsoftpowerbi&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git) |
+| ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) |
+
+---
+
+### 📜 **Certifications & Milestones**
+- 🏆 **AWS Certified AI Practitioner** [AIF - C01]
+- 🏆 **AWS Certified Cloud Practitioner** [CLF - C02]
+- 📊 **Data Science & Data Analysis Professional** — Top Mentor
+- 🥇 **Rank 1 in DSA** — GeeksforGeeks (University Level)
+
+---
 
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <i>"Efficiency through Automation. Integrity through Data."</i>
+</p>
