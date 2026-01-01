@@ -1,68 +1,59 @@
-<h1 align="center">Hi 👋, I'm Amit Yadav</h1>
-<h3 align="center">Systems Engineer @ Cognizant | Cloud & DevOps Enthusiast | Data Analytics Professional</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Amit%20Yadav&fontSize=90&animation=fadeIn&fontAlignY=38" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amityadav08&label=Profile%20views&color=0e75b6&style=flat" alt="Amityadav08" />
+  <a href="https://linkedin.com/in/amityadav8888"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:amityadav04866@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/amityadav04866"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working as a **Systems Engineer at Cognizant**, managing cloud infrastructure health and KPI reporting.
-- 🎓 Recently completed a comprehensive **Data Science & Data Analysis** program at **Top Mentor**.
-- ☁️ Actively upskilling in **AWS and Azure** to build scalable, automated cloud solutions.
-- 🚀 Mastering **DevOps toolchains** including Docker, Kubernetes, Jenkins, and Terraform.
-- 🎯 Goal: Transitioning into a **DevOps Analyst** role to combine data insights with infrastructure automation.
+### 🚀 **Systems Engineer | DevOps & Data Analytics**
+*Currently driving operational excellence at **Cognizant**, specializing in infrastructure reliability and data-driven insights.*
+
+- 🔭 **Focusing on:** Cloud Automation, Kubernetes Orchestration, and ETL Pipelines.
+- 🎓 **Credentials:** Data Science & Analytics Professional (Top Mentor).
+- ☁️ **Cloud journey:** AWS Certified Cloud Practitioner & AI Practitioner.
+- 🛠️ **Strategy:** Bridging the gap between software development and stable infrastructure.
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠️ **Core Competencies**
 
-**Cloud & DevOps**
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-</p>
-
-**Data Analytics & Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-**Monitoring & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Dynatrace-734791?style=for-the-badge&logo=dynatrace&logoColor=white" />
-  <img src="https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins) |
+| **Data Analytics** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=sqlite) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=power-bi) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau) |
+| **Monitoring** | ![Dynatrace](https://img.shields.io/badge/Dynatrace-734791?style=flat-square&logo=dynatrace) ![ServiceNow](https://img.shields.io/badge/ServiceNow-293E40?style=flat-square&logo=servicenow) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 ---
 
-### 📜 Certifications
-- ✅ **AWS Certified Cloud Practitioner (CLF-C02)**
-- ✅ **AWS Certified AI Practitioner (AIF-C01)**
-- ✅ **Data Science & Data Analysis Professional** – Top Mentor
+### 📊 **GitHub Activity & Impact**
 
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amityadav08&show_icons=true&theme=radical" alt="Amit's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amityadav08&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amityadav08&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amityadav08&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📫 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/amityadav8888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amit Yadav LinkedIn" height="30" width="40" /></a>
-<a href="mailto:amityadav04866@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
+### 📜 **Featured Projects**
+* **[Two-Tier Flask Deployment](https://github.com/Amityadav08)**: Scalable Kubernetes cluster setup on AWS EKS with Helm.
+* **[WhatsApp Chat Analysis](https://github.com/Amityadav08/Web-Analysis-A)**: NLP-driven insights using Python and Streamlit.
+* **[Infrastructure as Code](https://github.com/Amityadav08)**: Modular Terraform setups for AWS resources (EC2, S3, RDS).
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <i>"Automating the future, one commit at a time."</i>
 </p>
